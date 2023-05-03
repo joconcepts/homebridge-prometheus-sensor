@@ -12,4 +12,4 @@ occupancy) based on prometheus query.
   "url": "https://prometheus.example.com",
   "query": "min(avg_over_time(brickd_temperature_value[10m]))"
 }
-``
+```
