@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "PrometheusSensor",
+  "pluginAlias": "PrometheusSensorPlugin",
   "pluginType": "accessory",
   "singular": false,
   "headerDisplay": "A Homebridge plugin for displaying data provided by Prometheus as sensor.",
