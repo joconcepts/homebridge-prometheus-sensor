@@ -1,6 +1,6 @@
 {
   "name": "homebridge-prometheus-sensor",
-  "version": "0.0.1",
+  "version": "0.0.1-test",
   "description": "A homebridge plugin to fetch sensor data from prometheus",
   "main": "index.js",
   "scripts": {
